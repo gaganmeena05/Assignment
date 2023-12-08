@@ -13,21 +13,21 @@ Make sure you have Node.js and npm installed on your machine.
 
 1. Clone this repository to your local machine:
 
-   git clone https://github.com/your-username/react-ts-vite-starter.git
+   "git clone https://github.com/your-username/react-ts-vite-starter.git](https://github.com/gaganmeena05/Assignment.git "
 
 
 2. Navigate to the project directory:
 
-   cd react-ts-vite-starter
+   "cd react-ts-vite-starter"
 
 3. Install dependencies:
 
-   npm install
+   "npm install"
 
 ## Development
 To start the development server, run:
 
-  npm run dev
+  "npm run dev"
 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
