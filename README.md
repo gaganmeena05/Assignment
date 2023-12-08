@@ -1,5 +1,35 @@
 # React + TypeScript + Vite
 
+This project is a simple starter template for a React app with TypeScript using Vite as the build tool.
+
+## Prerequisites
+
+Make sure you have Node.js and npm installed on your machine.
+
+- Node.js: [Download here](https://nodejs.org/)
+- npm: (comes with Node.js installation)
+
+## Getting Started
+
+1. Clone this repository to your local machine:
+
+   git clone https://github.com/your-username/react-ts-vite-starter.git
+
+
+2. Navigate to the project directory:
+
+   cd react-ts-vite-starter
+
+3. Install dependencies:
+
+   npm install
+
+## Development
+To start the development server, run:
+
+  npm run dev
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
@@ -28,4 +58,4 @@ export default {
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
-# Assignment
+- 
