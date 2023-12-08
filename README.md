@@ -15,10 +15,7 @@ Make sure you have Node.js and npm installed on your machine.
 
    "git clone https://github.com/gaganmeena05/Assignment.git "
 
-
 2. Navigate to the project directory:
-
-   "cd react-ts-vite-starter"
 
 3. Install dependencies:
 
